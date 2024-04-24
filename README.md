@@ -1,1 +1,1 @@
-# Handwritten-Digit-Detection
+-Handwritten digit detection, also known as handwritten digit recognition or digit classification, is a task in the field of machine learning and computer vision where the goal is to identify and classify handwritten digits into their respective numerical values.
